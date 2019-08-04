@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 2,
+    "name": "HotDog",
+    "image": "https://media.giphy.com/media/3og0Izv3p7vMprq2Qw/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 3,
+    "name": "Homer",
+    "image": "https://media.giphy.com/media/l0NwOkgTYRi30mT4Y/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 4,
+    "name": "Unicorn",
+    "image": "https://media.giphy.com/media/UWRyZHCsHtBFS/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 5,
+    "name": "Stewie",
+    "image": "https://media.giphy.com/media/7eAvzJ0SBBzHy/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 6,
+    "name": "SpongeBob",
+    "image": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 7,
+    "name": "HotDog",
+    "image": "https://media.giphy.com/media/3og0Izv3p7vMprq2Qw/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 8,
+    "name": "Homer",
+    "image": "https://media.giphy.com/media/l0NwOkgTYRi30mT4Y/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 9,
+    "name": "Unicorn",
+    "image": "https://media.giphy.com/media/UWRyZHCsHtBFS/giphy.gif",
+    "clicked":false
+  },
+  {
+    "id": 10,
+    "name": "Stewie",
+    "image": "https://media.giphy.com/media/7eAvzJ0SBBzHy/giphy.gif",
+    "clicked":false
+  }
+]
